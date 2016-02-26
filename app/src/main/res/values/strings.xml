@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Just Java</string>
+    <string name="name_hint">Name</string>
+    <string name="toppings_label">Toppings</string>
+    <string name="whipped_cream_label">Whipped Cream</string>
+    <string name="chocolate_label">Chocolate Topping</string>
+    <string name="quantity_label">Quantity</string>
+    <string name="order_button">order</string>
+    <string name="max_coffees_toast">Can\'t order more than 100 cups of coffee.</string>
+    <string name="min_coffees_toast">You can\'t order less than zero cups of coffee!</string>
+    <string name="email_subject">Just Java order for\u0020</string>
+    <string name="order_name">Name:\u0020</string>
+    <string name="whipped_cream_order">\nAdd whipped cream?\u0020</string>
+    <string name="chocolate_order">\nAdd chocolate?\u0020</string>
+    <string name="order_quantity">\nQuantity:\u0020</string>
+    <string name="order_total">\nTotal: $</string>
+    <string name="thank_you">\nThank you!</string>
 </resources>

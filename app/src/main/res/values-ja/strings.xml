@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ちょうどコーヒー</string>
+    <string name="name_hint">なまえ</string>
+    <string name="toppings_label">トッピング</string>
+    <string name="whipped_cream_label">ホイップクリーム</string>
+    <string name="chocolate_label">チョコレートトッピング</string>
+    <string name="quantity_label">りょう</string>
+    <string name="order_button">こうにゅう</string>
+    <string name="max_coffees_toast">コーヒーの100以上のカップを注文することはできません。</string>
+    <string name="min_coffees_toast">あなたはコーヒーのゼロより小さいカップを注文することはできません！</string>
+    <string name="email_subject">オーダー名 </string>
+    <string name="order_name">なまえ: </string>
+    <string name="whipped_cream_order">ホイップクリームですか</string>
+    <string name="chocolate_order">チョコレートトッピングですか</string>
+    <string name="order_quantity">りょう: </string>
+    <string name="order_total">そうけい: $ </string>
+    <string name="thank_you">ありがとうございます</string>
+</resources>
+
+
